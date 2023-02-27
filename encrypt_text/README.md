@@ -10,4 +10,4 @@ Example
 s = `There's-a-starman-waiting-in-the-sky`
 k = 3
 
-The alphabet is rotated by , matching the mapping above. The encrypted string is `Wkhuh'v-d-vwdupdq-zdlwlqj-lq-wkh-vnb`.
+The alphabet is rotated by 3, matching the mapping above. The encrypted string is `Wkhuh'v-d-vwdupdq-zdlwlqj-lq-wkh-vnb`.
